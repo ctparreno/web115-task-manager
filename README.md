@@ -25,7 +25,3 @@ A simple task manager built with HTML, CSS, and JavaScript.
 * `index.html` – layout
 * `style.css` – styling
 * `script.js` – logic
-
-## Live Site
-[https://wcet.waketech.edu/yourusername/task-manager/
-](https://wcet.waketech.edu/cparreno/WEB115/task-manager/)
