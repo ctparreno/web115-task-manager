@@ -46,7 +46,10 @@ function displayTask(task) {
         <td>${task.date}</td>
 
         <td>
-            <input type="checkbox" onchange="completeTask(${task.id})">
+            <label>
+                <input type="checkbox" onchange="completeTask(${task.id})">
+                Completed
+            </label>
         </td>
 
         <td>
